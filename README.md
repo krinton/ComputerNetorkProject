@@ -1,7 +1,7 @@
 # ComputerNetorkProject
 Data Analytics for Inferring Probing Activities
 
-This project was done for Computer NEtwork Project class for Fall 2018, FAU (DR. Bou-Harb)
+This project was done for Computer Network Project class for Fall 2018, FAU (DR. Bou-Harb)
 
 For this Project I used PHP as a front end and phpMyAdmin as a back end, hosted on the local host using WAMP server on my local computer.
 
